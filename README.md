@@ -1,7 +1,7 @@
 # as-a-hobby.lisp.ai
 
 
-## new repository
+## new repository : naganeko.github.io
 
 
 - [spine-gif](https://naganeko.github.io/spine-gif) 
